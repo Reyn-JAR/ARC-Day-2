@@ -1,2 +1,2 @@
-# ARC-Day-2
-Created with CodeSandbox
+Nama: Jeremiah Alfa Reynaldo
+NIM: 16020352
